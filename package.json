@@ -1,0 +1,39 @@
+{
+  "name": "arguments-to-array",
+  "version": "0.0.0",
+  "description": "Make your function arguments into an actual array",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test",
+    "test-coverage": "istanbul cover _mocha --report lcovonly -- -R spec test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GochoMugo/arguments-to-array.git"
+  },
+  "keywords": [
+    "function",
+    "arguments",
+    "array"
+  ],
+  "author": "GochoMugo <mugo@forfuture.co.ke> (https://gochomugo.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GochoMugo/arguments-to-array/issues"
+  },
+  "homepage": "https://github.com/GochoMugo/arguments-to-array#readme",
+  "devDependencies": {
+    "coveralls": "^2.11.3",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-eslint": "^16.0.0",
+    "grunt-mocha-test": "^0.12.7",
+    "istanbul": "^0.3.17",
+    "load-grunt-tasks": "^3.2.0",
+    "mocha-lcov-reporter": "^0.0.2",
+    "should": "^7.0.1"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
