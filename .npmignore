@@ -1,0 +1,5 @@
+.editorconfig
+.eslintrc
+.travis.yml
+Gruntfile.js
+test.js
