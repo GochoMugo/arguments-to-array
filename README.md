@@ -58,6 +58,11 @@ function example() {
 ```
 
 
+## articles on this topic:
+
+* [js common pitfalls](http://nrn.io/view/javascript-common-pitfalls/view/array-like-objects)
+
+
 ## credits:
 
 * [volkovasystems/arguments-to-array](https://github.com/volkovasystems/arguments-to-array) existed before this repo was born!
