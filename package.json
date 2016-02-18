@@ -1,6 +1,6 @@
 {
   "name": "arguments-to-array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Make your function arguments into an actual array",
   "main": "index.js",
   "scripts": {
