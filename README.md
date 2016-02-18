@@ -72,4 +72,4 @@ function example() {
 
 *Source code is licensed under the __The MIT License (MIT)__*
 
-Copyright (c) 2015 GochoMugo <mugo@forfuture.co.ke>
+Copyright (c) 2015-2016 GochoMugo <mugo@forfuture.co.ke>
